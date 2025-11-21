@@ -16,11 +16,5 @@ To make the process more challenging, improve the experience, and aim for a more
 
 <img width="600" height="1300" alt="breadboard test" src="https://github.com/user-attachments/assets/4e95bef0-8a2f-46d6-b731-9601cf86fc8a" />
 
-<img width="600" height="1067" alt="pcb layout" src="https://github.com/user-attachments/assets/7b0c6e09-069b-4bd0-b01c-000e6fe14585" />
 
-<img width="600" height="1067" alt="assembled pedal 1" src="https://github.com/user-attachments/assets/c0cf9188-8db7-455e-a965-118466dce554" />
-
-<img width="600" height="1067" alt="assembled pedal 2" src="https://github.com/user-attachments/assets/b40f9de2-be34-469a-be6e-5421dbdaa30f" />
-
-<img width="600" height="1067" alt="assembled pedal 3" src="https://github.com/user-attachments/assets/5bc1ba52-707c-4330-ae4f-76169b9f277e" />
 
