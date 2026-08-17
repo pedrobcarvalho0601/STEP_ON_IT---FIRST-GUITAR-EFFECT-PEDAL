@@ -13,8 +13,3 @@ The overdrive will be a simple two-stage transistor circuit. The first stage wil
 Both circuits will be connected with an SPDT switch, allowing the user to choose which effect they want.
 
 To make the process more challenging, improve the experience, and aim for a more elegant design, I will build the entire circuit without using a PCB — soldering point-to-point directly onto the components.
-
-<img width="600" height="1300" alt="breadboard test" src="https://github.com/user-attachments/assets/4e95bef0-8a2f-46d6-b731-9601cf86fc8a" />
-
-
-
